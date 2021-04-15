@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700|Lobster:100,200,300,400,500,600,700|Dancing+Script:100,200,300,400,500,600,700');
+
+
+
+body {
+    background-image: url('../images/Michaela.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+
+
+
+}
+
+header {
+    margin: 0%;
+}
+
+.logo {
+    margin: 10px;
+    font-family: 'Lobster', sans-serif;
+    color: rgb(187, 26, 152);
+}
+
+.menuitem {
+    margin-top: 10px;
+    text-align: center;
+    color: grey;
+    text-decoration: none;
+    font-family: 'Dancing Script', sans-serif;
+
+
+}
+
+
+
+.menuitem:hover {
+    text-decoration: none;
+    color: rgb(207, 39, 117);
+
+
+}
+
+.logo:hover {
+    text-decoration: none;
+    color: rgb(207, 39, 117);
+}

@@ -26,18 +26,8 @@ The user feels more engaged and has even the chance to see two beautiful picture
 
 4. Giving a last touch to this "save the date"-type website, is some more pictures of Michaela, as well as one of the whole family. 
 
-5. Last but not least, the telephone numbers of both the parents exist in all the webpages.
-
-
-
-
-
-
-
-
-
-
-
+5. Last but not least, the telephone numbers of both the parents exist in all the webpages as hypelinks.
+ This way, the guest can communicate directly with the parents and get answers to the questions they may have regarding the event itself.
 
 
 
@@ -75,4 +65,15 @@ I used Lobster, Century Gothic family-fonts and sans-serif as deafault.
 * This website has been deployed through Github pages. 
 
 - - - -
+
+## Acknowledgement
+
+Thanks to my mentor, Ade who gave me some ideas on how, a completely new person on Software development, could built up a webpage from scratch.
+Thank you to everyone in Code institute and especially to Alexander, for all the support and help I got through this difficult period.
+Thanks to my friend Josef for getting boosted when I was feeling that everything goes wrong.
+Most of all a big thank you to my wonderful wife, my best friend and soulmate, who is always there inspiring and supporting me.
+Last but not least, a big hug to my little girl who is the reason to 
+
+
+
 

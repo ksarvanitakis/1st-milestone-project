@@ -4,9 +4,10 @@
 
 body {
     background-image: url('../images/Michaela.jpg');
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
     background-position: cover;
+
 
 
 
@@ -47,5 +48,21 @@ header {
 
 footer {
     flow: right;
-    margin-bottom: 80px;
+    margin-top: 100%;
+}
+
+#paragraph {
+    margin-top: 5%;
+    box-shadow: 5px 5px;
+    border: 1px solid;
+}
+
+#godparents-title {
+    text-align: center;
+    color: rgb(175, 214, 34);
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.img-fluid rounded-circle {
+    border-radius: 25%;
 }

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700|Lobster:100,200,300,400,500,600,700|Dancing+Script:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700|Lobster:100,200,300,400,500,600,700|Dancing+Script:100,200,300,400,500,600,700|Century gothic:100,200,300,400,500,600,700');
 
 
 
@@ -17,17 +17,18 @@ header {
 }
 
 .logo {
-    margin: 10px;
+    float: left;
+    margin: 25px;
     font-family: 'Lobster', sans-serif;
-    color: rgb(187, 26, 152);
+    color: grey;
 }
 
 .menuitem {
-    margin-top: 10px;
+    margin-top: 25px;
     text-align: center;
     color: grey;
     text-decoration: none;
-    font-family: 'Dancing Script', sans-serif;
+    font-family: 'Century Gothic', sans-serif;
 
 
 }
@@ -36,12 +37,15 @@ header {
 
 .menuitem:hover {
     text-decoration: none;
-    color: rgb(207, 39, 117);
-
-
+    color: rgb(241, 187, 10);
 }
 
 .logo:hover {
     text-decoration: none;
-    color: rgb(207, 39, 117);
+    color: rgb(241, 187, 10);
+}
+
+footer {
+    flow: right;
+    margin-bottom: 80px;
 }

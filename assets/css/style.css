@@ -4,12 +4,12 @@
 
 body {
     background-image: url('../images/Michaela.jpg');
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: cover;
-
-
-
+    margin: 0px;
+    min-height: 50%;
+    width: 100%;
 
 }
 
@@ -47,15 +47,19 @@ header {
 }
 
 footer {
-    flow: right;
-    margin-top: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
 }
 
-#paragraph {
-    margin-top: 5%;
+.par-text {
+    margin-top: 10px;
     box-shadow: 5px 5px;
     border: 1px solid;
 }
+
+
 
 #godparents-title {
     text-align: center;

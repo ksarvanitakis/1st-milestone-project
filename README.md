@@ -55,7 +55,7 @@ I used Lobster, Century Gothic family-fonts and sans-serif as deafault.
 
 2. Used [CSS3 Validator](https://jigsaw.w3.org/css-validator/) to check CSS3 for any errors. 
 
-3. The website has been tested manually on desktop and mobile devices.  
+3. The responsiveness of the website has been tested on [ami.responsivedesign](http://ami.responsivedesign.is/)
 
 
 - - - -

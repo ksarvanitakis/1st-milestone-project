@@ -68,11 +68,11 @@ I used Lobster, Century Gothic family-fonts and sans-serif as deafault.
 
 ## Acknowledgement
 
-Thanks to my mentor, Ade who gave me some ideas on how, a completely new person on Software development, could built up a webpage from scratch.
-Thank you to everyone in Code institute and especially to Alexander, for all the support and help I got through this difficult period.
-Thanks to my friend Josef for getting boosted when I was feeling that everything goes wrong.
+Thanks to my mentor Ade, who gave me some ideas on how, a completely new person on Software development, could built up a webpage from scratch.
+Thank you to everyone in Code Institute and especially to Alexander, for all the support and help I got through this difficult period.
+Thanks to my friend Josef for getting me boosted when everything felt like going wrong.
 Most of all a big thank you to my wonderful wife, my best friend and soulmate, who is always there inspiring and supporting me.
-Last but not least, a big hug to my little girl who is the reason to 
+Last but not least, a big hug to my little girl who is the reason to always try to be a better person and achieve my goals.
 
 
 

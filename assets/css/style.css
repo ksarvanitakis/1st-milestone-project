@@ -47,15 +47,16 @@ header {
 }
 
 footer {
-    position: fixed;
     bottom: 0px;
     left: 0px;
+    position: fixed;
+    text-align: right;
     width: 100%;
 }
 
 .par-text {
     margin-top: 10px;
-    box-shadow: 5px 5px;
+    box-shadow: 5px 5px 5px;
     border: 1px solid;
 }
 
@@ -69,4 +70,20 @@ footer {
 
 .img-fluid rounded-circle {
     border-radius: 25%;
+}
+
+#welcome-text {
+    text-align: center;
+    font-family: 'Lobster', sans-serif;
+    margin-top: 5%;
+    color: rgb(241, 187, 10);
+    text-shadow: 2px 2px grey;
+}
+
+.invitation-text {
+    text-align: center;
+    font-family: 'Century Gothic', sans-serif;
+    color: rgb(44, 40, 17);
+    font-weight: bold;
+
 }

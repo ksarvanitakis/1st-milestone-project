@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700|Lobster:100,200,300,400,500,600,700|Dancing+Script:100,200,300,400,500,600,700|Century gothic:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Lobster:100,200,300,400,500,600,700');
 
 
 
@@ -29,7 +29,7 @@ header {
     text-align: center;
     color: grey;
     text-decoration: none;
-    font-family: 'Century Gothic', sans-serif;
+    font-family: 'Roboto', sans-serif;
 
 
 }
@@ -65,7 +65,7 @@ footer {
 #godparents-title {
     text-align: center;
     color: rgb(175, 214, 34);
-    font-family: 'Century Gothic', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .img-fluid rounded-circle {
@@ -82,7 +82,7 @@ footer {
 
 .invitation-text {
     text-align: center;
-    font-family: 'Century Gothic', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: rgb(44, 40, 17);
     font-weight: bold;
 
